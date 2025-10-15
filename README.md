@@ -7,21 +7,10 @@
 </head>
 
 <body>
-  <style type="text/css">
-    html, body, #container {
-      height: 100%;
-    }
-    body, #container {
-      overflow: hidden;
-      margin: 0;
-    }
-    #iframe {
-      width: 100%;
-      height: 100%;
-      border: none;
-    }
-  </style>
-  <p>Hello World</p>
+    <h1>Hello, World!</h1>
+<!-- Conversion Pixel - Fresno Conversion Pixel Test - DO NOT MODIFY -->
+<img src="http://ib.adnxs.com.adnxs.com/px?id=1941241&t=2" width="1" height="1" />
+<!-- End of Conversion Pixel -->
 </body>
 
 </html>
